@@ -10,7 +10,7 @@ public class Main {
 
 
         for (int i=0; i< numeros.length; i++){
-            System.out.println("Digite um número " + (i+1) + ": ");
+            System.out.println("Entre com um número " + (i+1) + ": ");
             numeros[i] = scan.nextInt();
 
             if (i == 0) {
@@ -32,10 +32,10 @@ public class Main {
 
         }
 
-        System.out.println("O menor valor é: " + menor);
-        System.out.println("O maior valor é: " + maior);
-        System.out.println("A soma de todos os números é: " + soma);
-        System.out.println("A soma de todos os números pares é: " + pares);
+        System.out.println("Menor valor: " + menor);
+        System.out.println("Maior valor: " + maior);
+        System.out.println("Soma total dos números: " + soma);
+        System.out.println("Soma total dos números pares: " + pares);
 
     }
 }
