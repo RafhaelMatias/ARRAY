@@ -7,3 +7,5 @@
 
 # RESULTADO
 
+
+![array resultado](https://user-images.githubusercontent.com/95319831/165008999-db319208-b168-4f9e-b4b5-3ed0cfdd95c0.png)
